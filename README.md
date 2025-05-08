@@ -2,9 +2,10 @@
 
 ![host-and-port](images/emilio-picture.png)
 
-This is the profesisonal portfolio of A. Emilio DiStefano
+## A. Emilio DiStefano
+### Project Portfolio
 
-## The following projects show my skills in developing for embedded systems, in writing secure C++ code optimized for memory management, and in developing for Linux environments:
+## Projects:
 
 ### Project 1: 
 ![host-and-port](images/MemoryBot-logo.png)
