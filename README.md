@@ -1,5 +1,3 @@
-# aemiliodistefano.github.io 
-
 ![host-and-port](images/emilio-picture.png)
 
 ## A. Emilio DiStefano
