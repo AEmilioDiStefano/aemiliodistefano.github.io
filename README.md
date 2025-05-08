@@ -1,6 +1,6 @@
 # aemiliodistefano.github.io 
 
-![host-and-port](images/emilio-big-beard-2.png)
+![host-and-port](images/emilio-picture.png)
 
 This is the profesisonal portfolio of A. Emilio DiStefano
 
