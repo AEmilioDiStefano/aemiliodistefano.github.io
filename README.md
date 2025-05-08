@@ -9,5 +9,5 @@ Smart Greenhouse automatic climate and moisture control system for agricultural 
 https://github.com/AEmilioDiStefano/PlantSitter 
 
 ### Project 2:
-No-cloud home assistant: 
+No-cloud home assistant:
 https://github.com/AEmilioDiStefano/MemoryBot
