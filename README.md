@@ -1,1 +1,11 @@
 # aemiliodistefano.github.io
+
+## The following projects show my skills in developing for embedded systems, in writing secure C++ code optimized for memory management, and in developing for Linux environments:
+
+### Project 1: 
+Smart Greenhouse automatic climate and moisture control system for agricultural production in controlled environments:
+(link)
+
+### Project 2:
+No-cloud home assistant: 
+(link)
