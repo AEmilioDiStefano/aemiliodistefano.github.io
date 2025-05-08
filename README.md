@@ -6,8 +6,8 @@ This is the profesisonal portfolio of A. Emilio DiStefano
 
 ### Project 1: 
 Smart Greenhouse automatic climate and moisture control system for agricultural production in controlled environments:
-(link)
+https://github.com/AEmilioDiStefano/PlantSitter 
 
 ### Project 2:
 No-cloud home assistant: 
-(link)
+https://github.com/AEmilioDiStefano/MemoryBot
