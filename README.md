@@ -10,7 +10,7 @@ Hi, I'm Emilio - a results-driven software engineer dedicated to the development
 ![host-and-port](images/MemoryBot-logo.png)
 ## [MemoryBot](https://github.com/AEmilioDiStefano/MemoryBot)
 
-This system will use binary search tree functionality to search vast data stores of questions and answers.  Think of MemoryBot as a helpful friend with a perfect memory.  Ask memory bot to remind you the rate of acceleration due to the gravitational pull of our planet, or to remind you the name of your cousin Fabiola's most recent child.  With MemoryBot you can rest assured that important perosnal or profesisonal information will not be forgotten!  
+This system is an update from my previous memory-bot-python project.  The system will be written in C++ and the vector data structure is replaced with a binary search tree with an inOrder search algorithm.  These changes will dramaticaly improve the time complexicy (_O(n)_ to _O(log n)_) of the functions whhich enable the program to find user questions to output the associated answers.  Ask memory bot to remind you the rate of acceleration due to the gravitational pull of our planet, or to remind you the name of your cousin Fabiola's most recent child.  With MemoryBot you can rest assured that important information will not be forgotten!  
 
 ### Project 2: 
 ![host-and-port](images/PlantSitter-logo.png)
