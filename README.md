@@ -2,7 +2,7 @@
 
 ## A. Emilio DiStefano
 
-Hi, I'm Emilio - a results-driven robotics and embedded systems engineer dedicated to the development of effective, efficient, and low-cost robotics and embedded system solutions.
+Hi, I'm Emilio - a results-driven software engineer dedicated to the development of effective, efficient, and low-cost robotics and embedded system solutions.
 
 ## Projects:
 
