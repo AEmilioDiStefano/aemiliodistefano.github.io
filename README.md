@@ -19,7 +19,8 @@ Also, simulate necromancy with the "Talk to dead people" function.
 Here is a video showcasing the functionality of the MemoryBot app:
 https://www.youtube.com/watch?v=cjq_WKRvxD4
 
-![host-and-port](images/MemoryBot-screenshot.png)
+![host-and-port](images/MemoryBot-screenshot-1.png)
+![host-and-port](images/MemoryBot-screenshot-2.png)
 
 
 ### Project 2: 
