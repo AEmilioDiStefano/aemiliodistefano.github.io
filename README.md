@@ -10,7 +10,15 @@ Hi, I'm Emilio - a results-driven software engineer dedicated to the development
 ![host-and-port](images/MemoryBot-logo.png)
 ## [MemoryBot](https://github.com/AEmilioDiStefano/MemoryBot)
 
-This system is an update from my previous memory-bot-python project.  The system will be written in C++ and the vector data structure is replaced with a binary search tree with an inOrder search algorithm.  These changes will dramaticaly improve the time complexicy (_O(n)_ to _O(log n)_) of the functions whhich enable the program to find user questions to output the associated answers.  Ask memory bot to remind you the rate of acceleration due to the gravitational pull of our planet, or to remind you the name of your cousin Fabiola's most recent child.  With MemoryBot you can rest assured that important information will not be forgotten!  
+The MemoryBot project is a system for seamless access to information (anything from the melting point of potassium to the name of your cousin Constancia's fourth daughter).  Give MemoryBot new knowledge and he will remember it for later. 
+
+This program is written in C++ and uses an inverted index data structure along with a linear merge count algorithm to find the best answers to questions asked by the user.  The system uses a local JSON data store and does not require an internet connection to run.  Large data sets can be stored locally for each agent in order to achieve a high level of precision in answering questions.  The application is lightweight and can run on embedded systems.  The final goal of this project is to run it on an autonomous mobile robot as an energy-efficient solution for a robot capable of communicaitng with humans using locally stored data for usbability in situations where signal communication is unreliable or impossible. 
+
+Also, simulate necromancy with the "Talk to dead people" function. 
+
+Here is a video showcasing the functionality of the MemoryBot app:
+https://www.youtube.com/watch?v=cjq_WKRvxD4
+
 
 ### Project 2: 
 ![host-and-port](images/PlantSitter-logo.png)
