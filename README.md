@@ -4,9 +4,7 @@
 
 Hi, I'm Emilio - a results-driven software engineer dedicated to the development of effective, efficient, and low-cost robotics and embedded system solutions.
 
-## Projects:
-
-### Project 1: 
+# Project 1: 
 ![host-and-port](images/MemoryBot-logo.png)
 ## [MemoryBot](https://github.com/AEmilioDiStefano/MemoryBot)
 
@@ -23,7 +21,7 @@ https://www.youtube.com/watch?v=cjq_WKRvxD4
 ![host-and-port](images/MemoryBot-screenshot-2.png)
 
 
-### Project 2: 
+# Project 2: 
 ![host-and-port](images/PlantSitter-logo.png)
 ## [PlantSitter](https://github.com/AEmilioDiStefano/PlantSitter)
 
