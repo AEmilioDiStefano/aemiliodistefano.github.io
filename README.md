@@ -37,4 +37,3 @@ https://www.youtube.com/shorts/BfkOsw1nlx0
 And here are some screenshots of the running application:
 ![host-and-port](images/PlantSitter-screenshot-1.png)
 ![host-and-port](images/PlantSitter-screenshot-2.png)
-![host-and-port](images/PlantSitter-screenshot-3.png)
