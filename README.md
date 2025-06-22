@@ -37,3 +37,7 @@ https://www.youtube.com/shorts/BfkOsw1nlx0
 And here are some screenshots of the running application:
 ![host-and-port](images/PlantSitter-screenshot-1.png)
 ![host-and-port](images/PlantSitter-screenshot-2.png)
+
+# Code Review
+My code review of the original artifacts can be found at the link below: 
+https://www.youtube.com/watch?v=FD-Vz5hAikA
