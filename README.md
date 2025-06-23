@@ -49,3 +49,7 @@ https://github.com/AEmilioDiStefano/memory-bot-python
 
 Here is a link to the original PlantSitter artifact being reviewed before it was updated: 
 https://github.com/AEmilioDiStefano/embedded-systems
+
+# Narratives 
+Here is a link to all of my reflections and narratives throughout the Computer Science Capstone project course: 
+https://github.com/AEmilioDiStefano/capstone-project
