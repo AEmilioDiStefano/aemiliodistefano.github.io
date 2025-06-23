@@ -44,8 +44,8 @@ And here are some screenshots of the running application:
 My code review of the original artifacts can be found at the link below: 
 https://www.youtube.com/watch?v=FD-Vz5hAikA
 
-Here is a link to the original MemorytBot artifact being reviewed:
+Here is a link to the original MemorytBot artifact being reviewed before it was updated:
 https://github.com/AEmilioDiStefano/memory-bot-python 
 
-Here is a link to the original PlantSitter artifact being reviewed: 
+Here is a link to the original PlantSitter artifact being reviewed before it was updated: 
 https://github.com/AEmilioDiStefano/embedded-systems
