@@ -38,6 +38,14 @@ And here are some screenshots of the running application:
 ![host-and-port](images/PlantSitter-screenshot-1.png)
 ![host-and-port](images/PlantSitter-screenshot-2.png)
 
+
+
 # Code Review
 My code review of the original artifacts can be found at the link below: 
 https://www.youtube.com/watch?v=FD-Vz5hAikA
+
+Here is a link to the original MemorytBot artifact being reviewed:
+https://github.com/AEmilioDiStefano/memory-bot-python 
+
+Here is a link to the original PlantSitter artifact being reviewed: 
+
