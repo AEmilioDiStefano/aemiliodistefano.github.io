@@ -15,7 +15,7 @@ The MemoryBot project is a system for seamless access to information regardless 
 Also, simulate necromancy with the "Talk to dead people" function.  Have you ever wanted to interview Benjamin Franklin on what he would think of the modern world?  MemoryBot's "Talk to dead people" function can make that happen.  The system is designed for the easy addition of new entities.  Just add a JSON file of question-answer (key-value) pairs and make some minor code adjustments to converse with the historical figure or fictional character of your choice.  JSON files with question-answer (key-value) pairs can be made manually or generated from an AI service like ChatGTP.  As more questions and answers are added to the JSON file, the entity's dialogue will become more convincing.
 
 Here is a video showcasing the functionality of the MemoryBot app:
-https://www.youtube.com/watch?v=cjq_WKRvxD4
+(https://www.youtube.com/watch?v=cjq_WKRvxD4)
 
 And here are some screenshots of the running application:
 ![host-and-port](images/MemoryBot-screenshot-1.png)
@@ -42,14 +42,14 @@ And here are some screenshots of the running application:
 
 # Code Review
 My code review of the original artifacts can be found at the link below: 
-https://www.youtube.com/watch?v=FD-Vz5hAikA
+(https://www.youtube.com/watch?v=FD-Vz5hAikA)
 
 Here is a link to the original MemorytBot artifact being reviewed before it was updated:
-https://github.com/AEmilioDiStefano/memory-bot-python 
+(https://github.com/AEmilioDiStefano/memory-bot-python) 
 
 Here is a link to the original PlantSitter artifact being reviewed before it was updated: 
-https://github.com/AEmilioDiStefano/embedded-systems
+(https://github.com/AEmilioDiStefano/embedded-systems)
 
 # Narratives 
 Here is a link to all of my reflections and narratives throughout the Computer Science Capstone project course: 
-https://github.com/AEmilioDiStefano/capstone-project
+(https://github.com/AEmilioDiStefano/capstone-project)
