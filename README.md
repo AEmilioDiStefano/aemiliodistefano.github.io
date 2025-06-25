@@ -40,15 +40,11 @@ And here are some screenshots of the running application:
 
 
 # Code Review
-My code review of the original artifacts can be found at the link below: 
-(https://www.youtube.com/watch?v=FD-Vz5hAikA)
+Here is a link to [my code review of the original artifacts](https://www.youtube.com/watch?v=FD-Vz5hAikA).
 
-Here is a link to the original MemorytBot artifact being reviewed before it was updated:
-(https://github.com/AEmilioDiStefano/memory-bot-python) 
+Here is a link to [the original MemorytBot artifact being reviewed before it was updated](https://github.com/AEmilioDiStefano/memory-bot-python). 
 
-Here is a link to the original PlantSitter artifact being reviewed before it was updated: 
-(https://github.com/AEmilioDiStefano/embedded-systems)
+Here is a link to [the original PlantSitter artifact being reviewed before it was updated](https://github.com/AEmilioDiStefano/embedded-systems).
 
 # Narratives 
-Here is a link to all of my reflections and narratives throughout the Computer Science Capstone project course: 
-(https://github.com/AEmilioDiStefano/capstone-project)
+Here is a link to [all of my reflections and narratives throughout the Computer Science Capstone project course](https://github.com/AEmilioDiStefano/capstone-project).
