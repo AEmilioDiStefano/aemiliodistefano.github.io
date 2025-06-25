@@ -30,8 +30,8 @@ PlantSitter is an embedded system able to trigger the execution of processes mea
 
 PlantSitter can also be used for the DIY curing of preserved meats such as Cappicola and Serrano ham.  Just put the circuit and the heating/cooling/humidifying/drying in a closed environment with dimensions apropriate for the strength of your heating/cooling/humidifying/drying components.
 
-Here is a video showcasing the PlantSitter application running on the custom circuit:
-(https://www.youtube.com/shorts/BfkOsw1nlx0) 
+Here is a video showcasing the [PlantSitter application](https://www.youtube.com/shorts/BfkOsw1nlx0) 
+ running on the custom circuit:
 
 And here are some screenshots of the running application:
 ![host-and-port](images/PlantSitter-screenshot-1.png)
