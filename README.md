@@ -23,7 +23,7 @@ This project’s source code is licensed under the PolyForm Noncommercial Licens
 ![host-and-port](images/robot_guts_GIF.gif) 
 ### [Robot Build Tutorial](https://github.com/AEmilioDiStefano/ros2_ws_minimal)
 
-This minimal (headless) version of the **Legion Control Workspace** contains all of the software needed to build and control one or several robots from a remote location.  While the **Legion Control Workspace** is designed for laptops or control computers, **Legion Control Workspace Minimal** is designed to be cloned onto the robots themselves.  Included is a comprehensive tutorial complete with visual and written build instructions to turn roughly $120 USD into a simple robot ready for autonomous functions. 
+This minimal (headless) version of the **Legion Control Workspace** contains all of the software needed to build and control one or several robots from a remote location.  While the **Legion Control Workspace** is designed for laptops or control computers, **Legion Control Workspace Minimal** is designed to be cloned onto the robots themselves.  Included is a comprehensive tutorial complete with visual and written build instructions to build ROS2 robots ready for autonomous functions for under $120 USD in materials (each). 
 
 This project’s source code is licensed under the PolyForm Noncommercial License 1.0.0, which allows personal and noncommercial use but prohibits commercial use without obtaining a separate commercial license from me or my company.
 
