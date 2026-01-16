@@ -7,12 +7,26 @@ Hi, I'm Emilio - a results-driven software engineer dedicated to the development
 <br>  
 <br>  
 
-# Legion Control Workspace
+# Legion Control Workspace 
 ![host-and-port](images/FPV_gif.gif) 
 ![host-and-port](images/hide-and-seek-GIF.gif)
 ### [Legion Control Workspace](https://github.com/AEmilioDiStefano/ros2_ws) and [Legion Control Workspace Minimal](https://github.com/AEmilioDiStefano/ros2_ws_minimal)
 
 This ROS2 workspace contains a full robotics development environment which includes robotics virtualization software and the Python version of my 100% original **robot_legion_teleop** package.  The objective of this system is to act as a **remote control module for first-person-view swarm control of autonomous mobile robots** (the minimal version omits virtualization and visualization).  **As robots work autonomously** toward mission success, **human pilots are able take control of individual robots when opportunities are caught by the human eye via remote camera mux**.  The finished product will enable users anywhere in the world with an internet connection to effectively control a remote swarm of robots.
+
+This project’s source code is licensed under the PolyForm Noncommercial License 1.0.0, which allows personal and noncommercial use but prohibits commercial use without obtaining a separate commercial license from me or my company.
+
+<br>  
+<br>  
+
+# Differential Drive Robot Build Tutorial
+![host-and-port](images/FPV_gif.gif) 
+![host-and-port](images/hide-and-seek-GIF.gif)
+[Robot Build Tutorial](https://github.com/AEmilioDiStefano/ros2_ws_minimal)
+
+This minimal (headless) version of the **Legion Control Workspace** contains all of the software needed to build and control one or several robots from a remote location.  While the **Legion Control Workspace** is designed for laptops or control computers, **Legion Control Workspace Minimal** is designed to be cloned onto the robots themselves.  Included is a comprehensive tutorial complete with visual and written build instructions to turn roughly $120 USD into a simple robot ready for autonomous functions. 
+
+This project’s source code is licensed under the PolyForm Noncommercial License 1.0.0, which allows personal and noncommercial use but prohibits commercial use without obtaining a separate commercial license from me or my company.
 
 <br>  
 <br>  
@@ -40,23 +54,3 @@ Here is a video showcasing the functionality of the [MemoryBot system](https://w
 
 <br>
 <br>
-
-# PlantSitter (Education): 
-![host-and-port](images/PlantSitter-logo.png)
-### [PlantSitter](https://github.com/AEmilioDiStefano/PlantSitter)
-
-PlantSitter is an embedded system able to trigger the execution of processes meant to maintain an optimal growing climate in controlled agricultural environments based on changes in air temperature and humidity levels (a smart greenhouse system).  Whether you're producing agricultural procudts or you just need a reliable system to take care of your house plants while you're on vacation, PlantSitter is your ideal solution for maintaining plant health through the triggering of climatization control processes based on sensor input.
-
-PlantSitter can also be used for the DIY curing of preserved meats such as Cappicola and Serrano ham.  Just put the circuit and the heating/cooling/humidifying/drying elements in a closed environment with dimensions apropriate for the strength of your climate control components.
-
-Here is a video showcasing the [PlantSitter application running on the custom circuit](https://www.youtube.com/shorts/BfkOsw1nlx0) 
-.
-
-And here are some screenshots of the running application:
-![host-and-port](images/PlantSitter-screenshot-1.png)
-![host-and-port](images/PlantSitter-screenshot-2.png)
-
-<br>  
-<br>  
-
-
