@@ -37,6 +37,8 @@ This project’s source code is licensed under the PolyForm Noncommercial Licens
 
 This Pi-powered FPV router uses a single-board computer with a full Linux operating system for **ultra-customizable routing**.  Optimized for **low-latency video transfer for FPV robotics operations**, this router outperforms even high-end travel router models at a price comparable to that of a mid-range travel router.  Use this router to control robot swarms, or customize it to virtually any end that you can think of.
 
+This project’s source code is licensed under the PolyForm Noncommercial License 1.0.0, which allows personal and noncommercial use but prohibits commercial use without obtaining a separate commercial license from me or my company.
+
 <br>
 <br>
 
