@@ -11,8 +11,9 @@ Hi, I'm Emilio - a results-driven software engineer dedicated to the development
 ![host-and-port](images/FPV_gif.gif) 
 ![host-and-port](images/hide-and-seek-GIF.gif)
 ## [Legion Control Workspace](https://github.com/AEmilioDiStefano/ros2_ws)
+## [Legion Control Workspace Minimal](https://github.com/AEmilioDiStefano/ros2_ws_minimal)
 
-This ROS2 workspace contains a full robotics development environment which includes robotics virtualization software and the Python version of my 100% original **robot_legion_teleop** package.  The objective of this system is to act as a remote control module for first-person-view swarm control of autonomous mobile robots.  As each robot works autonomously to achieve mission success, human pilots can take control of individual robots when opportunities are caught by the human eye via remote camera mux.
+This ROS2 workspace contains a full robotics development environment which includes robotics virtualization software and the Python version of my 100% original **robot_legion_teleop** package.  The objective of this system is to act as a **remote control module for first-person-view swarm control of autonomous mobile robots**.  As robots work autonomously toward mission success, human pilots are able take control of individual robots when opportunities are caught by the human eye via remote camera mux.  The finished product will enable users anywhere in the world with an internet connection to effectively control a remote swarm of robots.
 
 <br>  
 <br>  
