@@ -8,7 +8,8 @@ Hi, I'm Emilio - a results-driven software engineer dedicated to the development
 <br>
 
 # Legion Control Workspace
-![host-and-port](images/FPV_gif.gif) ![host-and-port](images/hide-and-seek-GIF.gif)
+![host-and-port](images/FPV_gif.gif) 
+![host-and-port](images/hide-and-seek-GIF.gif)
 ## [Legion Control Workspace](https://github.com/AEmilioDiStefano/MemoryBot)
 
 <br>  
