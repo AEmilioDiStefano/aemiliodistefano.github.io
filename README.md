@@ -7,7 +7,7 @@ Hi, I'm Emilio - a results-driven software engineer dedicated to the development
 <br>  
 <br>  
 
-# Legion Control Workspace
+# Legion Control Workspace (Industry)
 ![host-and-port](images/FPV_gif.gif) 
 ![host-and-port](images/hide-and-seek-GIF.gif)
 ## [Legion Control Workspace](https://github.com/AEmilioDiStefano/ros2_ws)
