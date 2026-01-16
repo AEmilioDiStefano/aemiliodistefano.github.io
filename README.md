@@ -7,7 +7,7 @@ Hi, I'm Emilio - a results-driven software engineer dedicated to the development
 <br>  
 <br>  
 
-# Legion Control Workspace 
+# Legion Control Workspace  
 ![host-and-port](images/FPV_gif.gif) 
 ![host-and-port](images/hide-and-seek-GIF.gif)
 ### [Legion Control Workspace](https://github.com/AEmilioDiStefano/ros2_ws) and [Legion Control Workspace Minimal](https://github.com/AEmilioDiStefano/ros2_ws_minimal)
@@ -19,7 +19,7 @@ This project’s source code is licensed under the PolyForm Noncommercial Licens
 <br>  
 <br>  
 
-# Differential Drive Robot Build Tutorial
+# Differential Drive Robot Build Tutorial  
 ![host-and-port](images/FPV_gif.gif) 
 ![host-and-port](images/hide-and-seek-GIF.gif)
 [Robot Build Tutorial](https://github.com/AEmilioDiStefano/ros2_ws_minimal)
