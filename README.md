@@ -17,7 +17,7 @@ Hi, I'm Emilio - a results-driven software engineer dedicated to the development
 <br>  
 <br>  
 
-# MemoryBot (Educational) 
+# MemoryBot (Education) 
 ![host-and-port](images/MemoryBot-logo.png)
 ## [MemoryBot](https://github.com/AEmilioDiStefano/MemoryBot)
 
@@ -36,7 +36,7 @@ And here are some screenshots of the running application:
 <br>
 <br>
 
-# PlantSitter (Educational): 
+# PlantSitter (Education): 
 ![host-and-port](images/PlantSitter-logo.png)
 ## [PlantSitter](https://github.com/AEmilioDiStefano/PlantSitter)
 
