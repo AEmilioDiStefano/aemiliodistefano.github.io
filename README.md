@@ -30,8 +30,8 @@ This program is written in C++ and uses an **inverted index data structure** alo
 Here is a video showcasing the functionality of the [MemoryBot system](https://www.youtube.com/watch?v=cjq_WKRvxD4).
 
 And here are some screenshots of the running application:
-![host-and-port](images/MemoryBot-screenshot-1.png)
 ![host-and-port](images/MemoryBot-screenshot-2.png)
+![host-and-port](images/MemoryBot-screenshot-1.png)
 
 <br>
 <br>
