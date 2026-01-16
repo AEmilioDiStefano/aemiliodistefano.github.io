@@ -7,7 +7,7 @@ Hi, I'm Emilio - a results-driven software engineer dedicated to the development
 <br>
 <br>
 
-## Legion Control Workspace
+# Legion Control Workspace
 
 ## [Legion Control Workspace](https://github.com/AEmilioDiStefano/MemoryBot)
 
