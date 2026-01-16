@@ -7,7 +7,7 @@ Hi, I'm Emilio - a results-driven software engineer dedicated to the development
 <br>  
 <br>  
 
-# Legion Control Workspace (Industry)
+# Legion Control Workspace
 ![host-and-port](images/FPV_gif.gif) 
 ![host-and-port](images/hide-and-seek-GIF.gif)
 ### [Legion Control Workspace](https://github.com/AEmilioDiStefano/ros2_ws)
@@ -17,6 +17,15 @@ This ROS2 workspace contains a full robotics development environment which inclu
 
 <br>  
 <br>  
+
+# FPV Router
+![host-and-port](images/MemoryBot-screenshot-2.png)
+### [MemoryBot](https://github.com/AEmilioDiStefano/MemoryBot)
+
+
+
+<br>
+<br>
 
 # MemoryBot (Education) 
 ![host-and-port](images/MemoryBot-screenshot-2.png)
