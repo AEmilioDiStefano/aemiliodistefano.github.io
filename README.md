@@ -10,7 +10,9 @@ Hi, I'm Emilio - a results-driven software engineer dedicated to the development
 # Legion Control Workspace
 ![host-and-port](images/FPV_gif.gif) 
 ![host-and-port](images/hide-and-seek-GIF.gif)
-## [Legion Control Workspace](https://github.com/AEmilioDiStefano/MemoryBot)
+## [Legion Control Workspace](https://github.com/AEmilioDiStefano/ros2_ws)
+
+
 
 <br>  
 <br>  
