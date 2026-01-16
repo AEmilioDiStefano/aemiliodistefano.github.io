@@ -4,8 +4,8 @@
 
 Hi, I'm Emilio - a results-driven software engineer dedicated to the development of effective, efficient, low-cost robotics and embedded systems solutions.  Here are some of my projects: 
 
-<br>
-<br>
+<br>  
+<br>  
 
 # Legion Control Workspace
 ![host-and-port](images/FPV_gif.gif) 
