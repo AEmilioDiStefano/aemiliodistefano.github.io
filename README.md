@@ -10,8 +10,8 @@ Hi, I'm Emilio - a results-driven software engineer dedicated to the development
 # Legion Control Workspace (Industry)
 ![host-and-port](images/FPV_gif.gif) 
 ![host-and-port](images/hide-and-seek-GIF.gif)
-## [Legion Control Workspace](https://github.com/AEmilioDiStefano/ros2_ws)
-## [Legion Control Workspace Minimal](https://github.com/AEmilioDiStefano/ros2_ws_minimal)
+### [Legion Control Workspace](https://github.com/AEmilioDiStefano/ros2_ws)
+### [Legion Control Workspace Minimal](https://github.com/AEmilioDiStefano/ros2_ws_minimal)
 
 This ROS2 workspace contains a full robotics development environment which includes robotics virtualization software and the Python version of my 100% original **robot_legion_teleop** package.  The objective of this system is to act as a **remote control module for first-person-view swarm control of autonomous mobile robots**.  As robots work autonomously toward mission success, human pilots are able take control of individual robots when opportunities are caught by the human eye via remote camera mux.  The finished product will enable users anywhere in the world with an internet connection to effectively control a remote swarm of robots.
 
@@ -20,7 +20,7 @@ This ROS2 workspace contains a full robotics development environment which inclu
 
 # MemoryBot (Education) 
 ![host-and-port](images/MemoryBot-logo.png)
-## [MemoryBot](https://github.com/AEmilioDiStefano/MemoryBot)
+### [MemoryBot](https://github.com/AEmilioDiStefano/MemoryBot)
 
 The MemoryBot project is a system for seamless access to information regardless of internet accessibility.  Tell MemoryBot anything from the melting point of potassium to the name of your fourth cousin's fifth daughter, and MemoryBot will remember it for later.  No more forgotten birthdays, no more awkwardly asking questions which you should already know the answer to, and no more depending on the internet for knowledge - accumulate your own here.  
 
@@ -39,7 +39,7 @@ And here are some screenshots of the running application:
 
 # PlantSitter (Education): 
 ![host-and-port](images/PlantSitter-logo.png)
-## [PlantSitter](https://github.com/AEmilioDiStefano/PlantSitter)
+### [PlantSitter](https://github.com/AEmilioDiStefano/PlantSitter)
 
 PlantSitter is an embedded system able to trigger the execution of processes meant to maintain an optimal growing climate in controlled agricultural environments based on changes in air temperature and humidity levels (a smart greenhouse system).  Whether you're producing agricultural procudts or you just need a reliable system to take care of your house plants while you're on vacation, PlantSitter is your ideal solution for maintaining plant health through the triggering of climatization control processes based on sensor input.
 
