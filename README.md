@@ -21,7 +21,7 @@ This ROS2 workspace contains a full robotics development environment which inclu
 ![host-and-port](images/FPV-router.png)
 ### [FPV Router](https://github.com/AEmilioDiStefano/FPV_router)
 
-
+This Pi-powered FPV router uses a single-board computer with a full Linux operating system for **ultra-customizable routing**.  This router is optimized for **low-latency video transfer for FPV robotics operations**.  
 
 <br>
 <br>
