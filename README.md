@@ -19,7 +19,7 @@ This ROS2 workspace contains a full robotics development environment which inclu
 <br>  
 
 # MemoryBot (Education) 
-![host-and-port](images/MemoryBot-logo.png)
+![host-and-port](images/MemoryBot-screenshot-2.png)
 ### [MemoryBot](https://github.com/AEmilioDiStefano/MemoryBot)
 
 The MemoryBot project is a system for seamless access to information regardless of internet accessibility.  Tell MemoryBot anything from the melting point of potassium to the name of your fourth cousin's fifth daughter, and MemoryBot will remember it for later.  No more forgotten birthdays, no more awkwardly asking questions which you should already know the answer to, and no more depending on the internet for knowledge - accumulate your own here.  
@@ -29,10 +29,6 @@ Also, simulate necromancy with the "Talk to dead people" function.  Have you eve
 This program is written in C++ and uses an **inverted index data structure** along with a **linear merge count algorithm** to find the best answers to questions asked by the user.  The system uses a local JSON data store and does not require an internet connection to run.  **Large conversational data sets can be stored locally for each agent in order to achieve a high level of precision in answering questions**.  The application is lightweight and can **run on very limited hardware**.  The final goal of this project is to run it on an autonomous mobile robot as an energy-efficient solution for communication with humans using locally stored data for usbability in **situations where signal communication is unreliable or impossible**. 
 
 Here is a video showcasing the functionality of the [MemoryBot system](https://www.youtube.com/watch?v=cjq_WKRvxD4).
-
-And here are some screenshots of the running application:
-![host-and-port](images/MemoryBot-screenshot-2.png)
-![host-and-port](images/MemoryBot-screenshot-1.png)
 
 <br>
 <br>
