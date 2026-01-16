@@ -18,7 +18,7 @@ This ROS2 workspace contains a full robotics development environment which inclu
 <br>  
 
 # FPV Router
-![host-and-port](images/MemoryBot-screenshot-2.png)
+![host-and-port](images/FPV_router.png)
 ### [FPV Router](https://github.com/AEmilioDiStefano/FPV_router)
 
 
