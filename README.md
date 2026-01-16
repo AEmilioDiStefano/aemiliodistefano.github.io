@@ -21,7 +21,7 @@ This project’s source code is licensed under the PolyForm Noncommercial Licens
 
 # Differential Drive Robot Build Tutorial  
 ![host-and-port](images/robot_guts_GIF.gif) 
-[Robot Build Tutorial](https://github.com/AEmilioDiStefano/ros2_ws_minimal)
+### [Robot Build Tutorial](https://github.com/AEmilioDiStefano/ros2_ws_minimal)
 
 This minimal (headless) version of the **Legion Control Workspace** contains all of the software needed to build and control one or several robots from a remote location.  While the **Legion Control Workspace** is designed for laptops or control computers, **Legion Control Workspace Minimal** is designed to be cloned onto the robots themselves.  Included is a comprehensive tutorial complete with visual and written build instructions to turn roughly $120 USD into a simple robot ready for autonomous functions. 
 
