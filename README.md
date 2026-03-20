@@ -7,14 +7,14 @@ Hi, I'm Emilio - a results-driven software engineer dedicated to the development
 <br>  
 <br>  
 
-# Legion Control Workspace  
+# Swarm Control Core  
 ![host-and-port](images/FPV_gif.gif) 
 ![host-and-port](images/hide-and-seek-GIF.gif)
-### [Legion Control Workspace](https://github.com/AEmilioDiStefano/ros2_ws) and [Legion Control Workspace Minimal](https://github.com/AEmilioDiStefano/ros2_ws_minimal)
+### [swarm_control_core](https://github.com/AEmilioDiStefano/swarm_control_core)
 
-This ROS2 workspace contains a full robotics development environment which includes robotics virtualization software and the Python version of my 100% original **robot_legion_teleop** package.  The objective of this system is to act as a **remote control module for first-person-view swarm control of autonomous mobile robots** (the minimal version omits virtualization and visualization).  **As robots work autonomously** toward mission success, **human pilots are able take control of individual robots when opportunities are caught by the human eye via remote camera mux**.  The finished product will enable users anywhere in the world with an internet connection to effectively control a remote swarm of robots.
+**Swarm Control Core** is a ROS2 package that allows the user to control heterogeneous swarms of robots.  It includes an interactive browser UI that allows users to control swarm robots while seeing from their persoective via integrated, USB, serial, and other camera types.  The package is optimized for low-latency FPV on a local network.  It includes basic security features and automated camera integration which scrapes camera metadata and sets a camera profile that can be used for each individual robot regardless of camera type.  
 
-This project’s source code is licensed under the PolyForm Noncommercial License 1.0.0, which allows personal and noncommercial use but prohibits commercial use without obtaining a separate commercial license from me or my company.
+**Swarm Control Core** acts as a baseline for **Swarm Control Pro**, which is a non-public proprietary package that includes a wide variety of additional features such as remote operation capabilities from a remote browser, robuts security features, and automated onboarding of new build types (ground based, aerial, etc) to heterogeneous robot swarms.  **Swarm Control Pro** is optimized for use in mission-critical use-cases such as military, law enforcement, emergency response/rescue, and other highly sensitive applications.  For more information on the non-public proprietary **Swarm Control Pro** package, contact **[emilio@vitruvian.systems](emilio@vitruvian.systems)** 
 
 <br>  
 <br>  
