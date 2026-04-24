@@ -39,7 +39,7 @@ This project’s source code is licensed under the PolyForm Noncommercial Licens
 # UGV Robot Build Tutorial (Author) 
 
 <p align="center">
-  <img src="images/hide-and-seek-GIF.gif" alt="Robot tutorial demo">
+  <img src="images/hide-and-seek-GIF.gif" alt="Robot tutorial demo"> <img src="images/playbook_two_robots_INITIAL.gif" alt="Robot tutorial demo">
 </p>
 
 ### [Robot Build Tutorial](https://github.com/AEmilioDiStefano/ros2_ws_minimal)
