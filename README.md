@@ -36,7 +36,7 @@ This project’s source code is licensed under the PolyForm Noncommercial Licens
 <br>
 <br>
 
-# UGV Robot Build Tutorial (Author) 
+# Build Your Own Robot Tutorial (Author) 
 
 <p align="center">
   <img src="images/hide-and-seek-GIF.gif" alt="Robot tutorial demo"> <img src="images/FPV_gif.gif" alt="Virtuan FPV demo">
