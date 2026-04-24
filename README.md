@@ -42,7 +42,6 @@ This project’s source code is licensed under the PolyForm Noncommercial Licens
   <img src="images/hide-and-seek-GIF.gif" alt="Robot tutorial demo">
 </p>
 
-![host-and-port]() 
 ### [Robot Build Tutorial](https://github.com/AEmilioDiStefano/ros2_ws_minimal)
 
 This minimal (headless) version of the **Legion Control Workspace** contains all of the software needed to build and control one or several robots from a remote location.  While the **Legion Control Workspace** is designed for laptops or control computers, **Legion Control Workspace Minimal** is designed to be cloned onto the robots themselves.  Included is a comprehensive tutorial complete with visual and written build instructions to build ROS2 robots ready for autonomous functions for under $120 USD in materials (each). 
@@ -53,7 +52,11 @@ This project’s source code is licensed under the PolyForm Noncommercial Licens
 <br>  
 
 # MemoryBot (Education) 
-![host-and-port](images/MemoryBot-screenshot-2.png)
+
+<p align="center">
+  <img src="images/MemoryBot-screenshot-2.png" alt="MemoryBot demo">
+</p>
+
 ### [MemoryBot](https://github.com/AEmilioDiStefano/MemoryBot)
 
 The MemoryBot project is a system for seamless access to information regardless of internet accessibility.  Tell MemoryBot anything from the melting point of potassium to the name of your fourth cousin's fifth daughter, and MemoryBot will remember it for later.  No more forgotten birthdays, no more awkwardly asking questions which you should already know the answer to, and no more depending on the internet for knowledge - accumulate your own here.  
