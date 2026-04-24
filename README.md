@@ -33,7 +33,7 @@ This project’s source code is licensed under the PolyForm Noncommercial Licens
 <br>
 <br>
 
-# Differential Drive Robot Build Tutorial  
+# Differential Drive Robot Build Tutorial (Author) 
 ![host-and-port](images/robot_guts_GIF.gif) 
 ### [Robot Build Tutorial](https://github.com/AEmilioDiStefano/ros2_ws_minimal)
 
