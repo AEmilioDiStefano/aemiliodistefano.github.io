@@ -23,7 +23,10 @@ Hi, I'm Emilio - a results-driven software engineer dedicated to the development
 <br>  
 
 # FPV Router
-![host-and-port](images/FPV-router.png)
+<p align="center">
+  <img src="images/FPV-router.png" alt="FPV Router">
+</p>
+
 ### [FPV Router](https://github.com/AEmilioDiStefano/FPV_router)
 
 This Pi-powered FPV router uses a single-board computer with a full Linux operating system for **ultra-customizable routing**.  Optimized for **low-latency video transfer for FPV robotics operations**, this router outperforms even high-end travel router models at a price comparable to that of a mid-range travel router.  Use this router to control robot swarms, or customize it to virtually any end that you can think of.
@@ -34,7 +37,12 @@ This project’s source code is licensed under the PolyForm Noncommercial Licens
 <br>
 
 # Differential Drive Robot Build Tutorial (Author) 
-![host-and-port](images/hide-and-seek-GIF.gif) 
+
+<p align="center">
+  <img src="images/hide-and-seek-GIF.gif" alt="Robot tutorial demo">
+</p>
+
+![host-and-port]() 
 ### [Robot Build Tutorial](https://github.com/AEmilioDiStefano/ros2_ws_minimal)
 
 This minimal (headless) version of the **Legion Control Workspace** contains all of the software needed to build and control one or several robots from a remote location.  While the **Legion Control Workspace** is designed for laptops or control computers, **Legion Control Workspace Minimal** is designed to be cloned onto the robots themselves.  Included is a comprehensive tutorial complete with visual and written build instructions to build ROS2 robots ready for autonomous functions for under $120 USD in materials (each). 
