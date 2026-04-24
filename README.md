@@ -36,7 +36,7 @@ This project’s source code is licensed under the PolyForm Noncommercial Licens
 <br>
 <br>
 
-# Differential Drive Robot Build Tutorial (Author) 
+# UGV Robot Build Tutorial (Author) 
 
 <p align="center">
   <img src="images/hide-and-seek-GIF.gif" alt="Robot tutorial demo">
