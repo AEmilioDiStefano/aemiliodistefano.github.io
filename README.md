@@ -2,7 +2,7 @@
 
 ## A. Emilio DiStefano
 
-Hi, I'm Emilio - a results-driven software engineer dedicated to the development of effective, efficient, low-cost robotics and embedded systems solutions.  Here are some of my projects: 
+I’m Emilio - a results-driven software engineer dedicated to the development of effective, efficient, low-cost robotics, IoT, and embedded systems solutions.  Here are some of my projects: 
 
 <br>  
 <br>  
@@ -10,7 +10,7 @@ Hi, I'm Emilio - a results-driven software engineer dedicated to the development
 # Swarm Control Core  
 
 <p align="center">
-  <img src="images/remote_operation_GIF.gif" alt="Remote operation demo"> <img src="images/FPV_gif.gif" alt="Virtuan FPV demo">
+  <img src="images/remote_operation_GIF.gif" alt="Remote operation demo"> <img src="images/playbook_two_robots_INITIAL.gif" alt="Robot tutorial demo">
 </p>
 
 ### [swarm_control_core](https://github.com/AEmilioDiStefano/swarm_control_core)
@@ -39,7 +39,7 @@ This project’s source code is licensed under the PolyForm Noncommercial Licens
 # UGV Robot Build Tutorial (Author) 
 
 <p align="center">
-  <img src="images/hide-and-seek-GIF.gif" alt="Robot tutorial demo"> <img src="images/playbook_two_robots_INITIAL.gif" alt="Robot tutorial demo">
+  <img src="images/hide-and-seek-GIF.gif" alt="Robot tutorial demo"> <img src="images/FPV_gif.gif" alt="Virtuan FPV demo">
 </p>
 
 ### [Robot Build Tutorial](https://github.com/AEmilioDiStefano/ros2_ws_minimal)
