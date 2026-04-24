@@ -10,7 +10,7 @@ Hi, I'm Emilio - a results-driven software engineer dedicated to the development
 # Swarm Control Core  
 
 <p align="center">
-  <img src="media/remote_operation_GIF.gif" alt="Remote operation demo"> <img src="media/hide-and-seek-GIF.gif" alt="Hide and seek demo">
+  <img src="images/remote_operation_GIF.gif" alt="Remote operation demo"> <img src="images/hide-and-seek-GIF.gif" alt="Hide and seek demo">
 </p>
 
 ### [swarm_control_core](https://github.com/AEmilioDiStefano/swarm_control_core)
