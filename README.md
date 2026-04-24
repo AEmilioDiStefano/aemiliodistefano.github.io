@@ -8,8 +8,9 @@ Hi, I'm Emilio - a results-driven software engineer dedicated to the development
 <br>  
 
 # Swarm Control Core  
-![host-and-port](images/FPV_gif.gif) 
-![host-and-port](images/hide-and-seek-GIF.gif)
+<p align="center">
+  <img src="media/remote_operation_GIF.gif" alt="Remote operation demo"> <img src="media/hide-and-seek-GIF.gif" alt="Hide and seek demo">
+</p>
 ### [swarm_control_core](https://github.com/AEmilioDiStefano/swarm_control_core)
 
 **Swarm Control Core** is a ROS2 package that allows the user to control heterogeneous swarms of robots.  It includes an interactive browser UI that allows users to control swarm robots while seeing from their persoective via integrated, USB, serial, and other camera types.  The package is optimized for low-latency FPV on a local network.  It includes basic security features and automated camera integration which scrapes camera metadata and sets a camera profile that can be used for each individual robot regardless of camera type.  
