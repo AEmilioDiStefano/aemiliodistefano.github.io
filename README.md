@@ -4,7 +4,7 @@
 
 I’m Emilio - a results-driven software engineer dedicated to the development of effective, efficient, low-cost robotics, IoT, and embedded systems solutions.  Here are some of my projects: 
 
-# Swarm Control Core  
+# Swarm Control  
 
 <p align="center">
   <img src="images/remote_operation_GIF.gif" alt="Remote operation demo"> <img src="images/playbook_two_robots_INITIAL.gif" alt="Robot tutorial demo">
