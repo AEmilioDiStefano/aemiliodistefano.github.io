@@ -20,6 +20,11 @@ I’m Emilio - a results-driven software engineer dedicated to the development o
 <br>  
 
 # NeuroMux 
+<p align="center">
+  <img src="images/FPV-router.png" alt="FPV Router">
+</p>
+
+### COMING SOON
 
 <br>
 <br>
