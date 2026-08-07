@@ -4,6 +4,22 @@
 
 I’m Emilio - a results-driven software engineer dedicated to the development of effective, efficient, low-cost robotics, IoT, and embedded systems solutions.  Here are some of my projects: 
 
+# NeuroMux 
+<p align="center">
+  <img src="images/neuromux-app-icon-512.png" alt="FPV Router" width="100px" height="100px">
+</p>
+
+NeuroMux is an AI-powered engineering platform that enables the rapid development of systems across engineering domains (software, embedded/firmware, electrical/PCB, RF/comms, etc) in one authorative workspace with one context.  
+
+### [NeuroMux](https://neuromux.io)
+
+### [NeuroMux Mobile](https://mobile.neuromux.io)
+
+### COMING SOON
+
+<br>
+<br>
+
 # Swarm Control  
 
 <p align="center">
@@ -19,32 +35,6 @@ I’m Emilio - a results-driven software engineer dedicated to the development o
 <br>  
 <br>  
 
-# NeuroMux 
-<p align="center">
-  <img src="images/neuromux-app-icon-512.png" alt="FPV Router" width="100px" height="100px">
-</p>
-
-NeuroMux is an AI-powered engineering platform that enables the rapid development of software, electrical, RF, embedded systems, mechanical, and cross-domian systems.  NeuroMux supports both cloud models (API-based) and local models (running locally on a client-controlled machine) and enables the fine-tuning of models via agent personas.  
-
-**For software engineering, NeuroMux offers a wide variety of innovative features including byt not limited to:**
-- multi-chat separation of concerns 
-- real-time prompt cost estimation
-- constant spending report generation and spending audits
-- project health monitor that auto-detects a project's efficiency and scalability issues and potential failure modes
-- intuitive ways to teach the sytem user-specific failure modes to look out for  
-
-**For other engineering domains, Neuromux ebables engineers to:**
-
-- rapidly develop shematics and system plans for electrical, RF, embedded, mechanical, and cross-domain pojects
-- improve on existing systems thruogh the use of AI
-- export generated or modified systems and plans to common engineering software like SPICE and CAD variants
-
-NeuroMux facilitates the development of agent prompting pipelines that can reduce engineering costs and improving prompt results by optimizing information flow between models.   
-
-### COMING SOON
-
-<br>
-<br>
 
 # FPV Router
 <p align="center">
