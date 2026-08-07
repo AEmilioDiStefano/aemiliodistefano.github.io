@@ -5,7 +5,7 @@
 I’m Emilio - a results-driven software engineer dedicated to the development of effective, efficient, low-cost robotics, IoT, and embedded systems solutions.  Here are some of my projects: 
 
 # NeuroMux 
-<p align="center">
+<p align="left">
   <img src="images/neuromux-app-icon-512.png" alt="FPV Router" width="100px" height="100px">
 </p>
 
@@ -14,8 +14,6 @@ NeuroMux is an AI-powered engineering platform that enables the rapid developmen
 ### [NeuroMux](https://neuromux.io)
 
 ### [NeuroMux Mobile](https://mobile.neuromux.io)
-
-### COMING SOON
 
 <br>
 <br>
