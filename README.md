@@ -4,9 +4,8 @@
 
 I’m Emilio - a results-driven software engineer dedicated to the development of effective, efficient, low-cost robotics, IoT, and embedded systems solutions.  Here are some of my projects: 
 
-# NeuroMux 
-<p align="left">
-  <img src="images/neuromux-app-icon-512.png" alt="FPV Router" width="100px" height="100px">
+<p align="center">
+  <img src="images/neuromux-OSR-demo-GIF.gif" alt=NeuroMux demo">
 </p>
 
 NeuroMux is a CI/CD tool that catches integration issues between hardware and software. Checks for drift with every revision so HW and SW engineers can focus on what they do best. the systme works fully deterministically, with optional AI functions that can call local and/or cloud-based models.
