@@ -10,9 +10,10 @@ I’m Emilio - a results-driven software engineer dedicated to the development o
   <img src="images/neuromux-OSR-demo-GIF.gif" alt=NeuroMux demo">
 </p>
 
-NeuroMux is a CI/CD tool that catches integration issues between hardware and software. Checks for drift with every revision so HW and SW engineers can focus on what they do best. the systme works fully deterministically, with optional AI functions that can call local and/or cloud-based models.
 
 ### [NeuroMux](https://neuromux.io)
+
+NeuroMux is a CI/CD tool that catches integration issues between hardware and software. Checks for drift with every revision so HW and SW engineers can focus on what they do best. the systme works fully deterministically, with optional AI functions that can call local and/or cloud-based models.
 
 <br>
 <br>
