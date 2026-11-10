@@ -2,7 +2,9 @@
 
 ## A. Emilio DiStefano
 
-I’m Emilio - a results-driven software engineer dedicated to the development of effective, efficient, low-cost robotics, IoT, and embedded systems solutions.  Here are some of my projects: 
+Robotics engineer - AI systems architect - Founder
+
+Here are some of my projects: 
 
 # NeuroMux
 
